@@ -1,0 +1,43 @@
+2024-12-28T14:35:53.533Z [INFO] Data loaded successfully
+2024-12-28T14:36:50.731Z [INFO] Database selected successfully
+2024-12-28T14:36:57.712Z [ERROR] Error during inserting data: Cannot read properties of undefined (reading 'x')
+2024-12-28T14:37:51.467Z [INFO] Data inserted successfully
+2024-12-28T14:38:54.603Z [INFO] Data selected successfully
+2024-12-28T14:40:01.434Z [INFO] Data selected successfully
+2024-12-28T14:40:06.616Z [INFO] Data loaded successfully
+2024-12-28T14:40:13.244Z [INFO] Database selected successfully
+2024-12-28T14:40:16.568Z [ERROR] Error during getting data: Cannot read properties of undefined (reading 'x')
+2024-12-28T14:40:37.866Z [INFO] Data selected successfully
+2024-12-28T14:59:21.741Z [INFO] Data loaded successfully
+2024-12-28T14:59:29.222Z [INFO] Database selected successfully
+2024-12-28T15:02:46.122Z [DEBUG] Lock acquired for table my_own_table2
+2024-12-28T15:02:46.131Z [INFO] Data saved successfully
+2024-12-28T15:02:46.132Z [DEBUG] Lock released for table my_own_table2
+2024-12-28T15:02:46.133Z [INFO] Table created successfully
+2024-12-29T00:32:19.461Z [DEBUG] Lock acquired for table test
+2024-12-29T00:32:19.463Z [INFO] Data saved successfully
+2024-12-29T00:32:19.464Z [DEBUG] Lock released for table test
+2024-12-29T00:32:19.465Z [INFO] Table created successfully
+2024-12-29T00:33:40.879Z [DEBUG] Lock acquired for table test
+2024-12-29T00:33:40.882Z [INFO] Data saved successfully
+2024-12-29T00:33:40.882Z [DEBUG] Lock released for table test
+2024-12-29T00:33:40.883Z [INFO] Data inserted successfully
+2024-12-29T00:34:02.783Z [DEBUG] Lock acquired for table test
+2024-12-29T00:34:02.794Z [DEBUG] Lock released for table test
+2024-12-29T00:34:02.794Z [INFO] Data selected successfully
+2024-12-29T01:14:48.150Z [INFO] Data loaded successfully
+2024-12-29T01:15:07.120Z [INFO] Data saved successfully
+2024-12-29T01:15:07.121Z [INFO] Database created successfully
+2024-12-29T01:15:14.665Z [INFO] Database selected successfully
+2024-12-29T01:15:26.108Z [DEBUG] Lock acquired for table test2
+2024-12-29T01:15:26.110Z [INFO] Data saved successfully
+2024-12-29T01:15:26.111Z [DEBUG] Lock released for table test2
+2024-12-29T01:15:26.112Z [INFO] Table created successfully
+2024-12-29T01:15:46.627Z [DEBUG] Lock acquired for table test2
+2024-12-29T01:15:46.629Z [INFO] Data saved successfully
+2024-12-29T01:15:46.629Z [DEBUG] Lock released for table test2
+2024-12-29T01:15:46.629Z [INFO] Data inserted successfully
+2024-12-29T01:16:26.371Z [DEBUG] Lock acquired for table test2
+2024-12-29T01:16:26.375Z [DEBUG] Lock released for table test2
+2024-12-29T01:16:26.376Z [INFO] Data selected successfully
+2024-12-29T02:13:27.509Z [INFO] Data loaded successfully

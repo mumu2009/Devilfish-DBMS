@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.1.0",
+    "express": "^4.21.2",
+    "json-parser": "^3.1.2",
+    "regexp": "^1.0.0",
+    "zlib": "^1.0.5"
+  }
+}
